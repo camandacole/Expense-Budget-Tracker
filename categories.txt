@@ -1,0 +1,9 @@
+ID,Name
+1,Automobile Expenses
+2,Health Expenses
+3,Beauty Expenses
+4,Educational Expenses
+5,House Expenses
+6,Food Expenses
+7,Vacation Expenses
+8,Gadget Expenses
